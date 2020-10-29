@@ -1,0 +1,17 @@
+h1 {
+    color: paleturquoise;
+    font-family: monospace;
+    text-align: center;
+    }
+
+a link {
+    color: teal;
+    }
+
+a visited {
+    color: royalblue;
+    }
+
+a active {
+    color: darkslateblue;
+    }
