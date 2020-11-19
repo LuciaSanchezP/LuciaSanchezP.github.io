@@ -1,0 +1,95 @@
+body {
+    background-color: snow
+    }
+
+header {
+    width: auto;
+    height: 5%;
+    background-color: bisque;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    }
+
+#diferente {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: brown;
+    }
+
+#primera {
+    width: 600px;
+    height: 600px;
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px;
+    }
+
+#linea {
+    display: inline-block;
+    list-style-type: none;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 100px;
+    font-size: 1.5em
+    }
+
+#segunda {
+    width: 600px;
+    background-color: beige;
+    padding: 10px;
+    text-align: left;
+    }
+
+#tercera {
+    width: 600px;
+    padding: 10px;
+    background-color: black;
+    text-align: left; 
+    }
+
+.center {
+    font-family: Century Gothic; 
+    color:black; 
+    font-size: 3em
+    }
+
+.center2 {
+    font-size:1em; 
+    color:grey; 
+    font-family: Century Gothic;
+    font-size: 0.95em
+    }
+
+p {
+    color:black;
+    font-family: Century Gothic;
+    }
+
+#abajo {
+    list-style-type: none;
+    font-family: Century Gothic; 
+    color: white; 
+    background-color: black;
+    font-size: 0.95em
+    }
+
+a:link {
+    color: deeppink
+    }
+
+a:visited {
+    color: pink
+    }
+
+a:hover {
+    background-color:lightpink;
+    position: relative;
+    left: 10px;
+    top: 15px;
+    }
+
+a:active {
+    color: hotpink
+    }
